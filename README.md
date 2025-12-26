@@ -1,4 +1,4 @@
-
+# mandelbrot-set
 
 This is a very simple visualizer for the **Mandelbrot set**. This project is written in c and uses **SDL3**.
 
